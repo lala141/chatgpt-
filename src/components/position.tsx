@@ -2,7 +2,7 @@ function Position(){
 
     return(
         <>
-        <div className='w-full h-screen bg-amber-50 flex justify-center'>
+        <div className='w-full h-[120vh] bg-amber-600 flex justify-center'>
         <div>learing position</div>
         <div> this is static</div>
         <div> this is absolute</div>
